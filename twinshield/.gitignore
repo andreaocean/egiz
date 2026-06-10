@@ -1,0 +1,10 @@
+backend/venv/
+backend/egiz.db
+backend/twinshield.db
+backend/__pycache__/
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+twinshield/ОТЧЕТ_ПО_ПРАКТИКЕ.md
+
+
